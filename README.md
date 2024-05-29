@@ -1,0 +1,2 @@
+# clothing-website
+THIS IS THE HOME PAGE OF CLOTHING WEBSITE  
